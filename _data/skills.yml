@@ -1,0 +1,25 @@
+languages:
+  - item: Java
+  - item: C#
+  - item: C/C++
+  - item: Python
+  - item: SQL
+  - item: JavaScript
+  - item: R
+
+frameworks:
+  - item: jQuery
+  - item: Jekyll
+  - item: Node
+
+tools:
+  - item: Junit
+  - item: Git & Github
+  - item: MS SQL Server
+
+elecdevice:
+  - item: Arduino
+  - item: ARM cortex-M MCU
+  - item: Oscilloscopes
+  - item: Signal generator
+  - item: Multimeter
