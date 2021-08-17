@@ -1,7 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
 html{
-  margin:20px;
+  margin:40px;
 }
 *{
   font-family: 'Rubik', sans-serif;
+  font-weight:300
+}
+footer{
+  text-align:center;
+}
+a{
+  font-weight:500;
+  color:black;
+  text-decoration:none;
+}
+h5{
+  font-size:17px;
+}
+section{
+  margin-top:30px;
+  margin-bottom:30px;
+}
+.section__title{
+  font-size:20px;
+  font-weight:400;
+  display: inline-block;
+  vertical-align: top;
+}
+.section__content{
+  display: inline-block;
+  width:75%;
+  padding: 0 0 0 5%;
+}
+.skillz__category{
+  display: inline-block;
+  vertical-align: top;
+  padding: 0 5% 0 0 ;
+}
+.skillz__category__label{
+  font-weight:400;
+}
+ul{
+  list-style-type:none;
+  padding:0;
+  margin:0;
+}
+.contact__links{
+  text-align:center;
+  margin:20px;
 }
