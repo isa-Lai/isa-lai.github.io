@@ -29,9 +29,11 @@ github_username:  isa-lai
 
 
 # Build settings
+
 theme: minima
 plugins:
   - jekyll-feed
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.

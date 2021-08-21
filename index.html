@@ -10,7 +10,11 @@ layout: default
   {% include skills.html %}
   {% include experience.html %}
   {% include other-projects.html %}
-  {% include contact.html %}
+  <section class="floatbar contact">
+    <div class="contact__float">
+      {% include contact.html %}
+    </div>
+  </section>
   {% include footer.html %}
   {% include top-button.html %}
 </div>

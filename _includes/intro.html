@@ -1,4 +1,4 @@
-<header class="intro">
+<header id='intro' class="intro">
   <h1 class="intro__hello">Hi, My name is 
     <span class="emoji wave-hand animated"></span>
   </h1>
@@ -15,9 +15,13 @@
     who enjoys solving a complex and challenging real-world problems.
   </h5>
 
-  <h3 class="intro__contact">
-    <span>
-      <a href="/#contact"  >Get In Touch</a>
-    </span>
-  </h3>
+  <div class="contact__links">
+    <h3 class="intro__contact">
+      <span id='link__contact'>
+        Get In Touch
+      </span>
+    </h3>
+    {% include contact.html %}
+  </div>
 </header>
+
