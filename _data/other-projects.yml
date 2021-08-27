@@ -1,7 +1,7 @@
 - name: Business Information System
   url: 
   code: 
-  description: Develop and ooperate enterprise management system during coop in Carlisle
+  description: Develop and operate enterprise management system during coop in Carlisle
   used:
     - thing: C#
     - thing: ASP.net
