@@ -56,7 +56,7 @@ $(function() {
   sr.reveal('.other-projects', { viewFactor: 0.05 });
 });
 
-//submit form
+//submit form formspree
 var form = document.getElementById("my-form");
     
     async function handleSubmit(event) {
