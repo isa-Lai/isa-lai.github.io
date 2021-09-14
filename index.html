@@ -1,21 +1,16 @@
 ---
 layout: default
 ---
-<nav>
-    {% include navbar.html %}
-</nav>
+
 <div id="site">
+  {% include switch.html %}
   {% include intro.html %}
-  {% include about.html %}
+  {% include background.html %}
   {% include skills.html %}
   {% include experience.html %}
+  
   {% include other-projects.html %}
   {% include form.html %}
-  <section class="floatbar contact">
-    <div class="contact__float">
-      {% include contact.html %}
-    </div>
-  </section>
   {% include footer.html %}
   {% include top-button.html %}
 </div>
