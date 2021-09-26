@@ -8,5 +8,14 @@
     - thing: MVC
     - thing: JavaScript
     - thing: MS SQL Server
+- name: ToF - Room Scanning System
+  url: https://github.com/isa-Lai/ToF-RoomScanningSystem
+  code: https://github.com/isa-Lai/ToF-RoomScanningSystem
+  description: An embedded program using light sensor and motor to generate a 360 degree 3D graph file. Mcmaster University COMPENG 2DX4 final project.
+  used:
+    - thing: C
+    - thing: Python
+    - thing: ARM cortex-M MCU
+    - thing: Keil
 
 

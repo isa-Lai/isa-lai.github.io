@@ -11,13 +11,17 @@ frameworks:
   - item: jQuery
   - item: Jekyll
   - item: Node
+  - item: Vue
 
 tools:
   - item: Junit
   - item: Git & Github
   - item: MS SQL Server
+  - item: MySql
 
 elecdevice:
+  - item: FPGA CAD Design
+  - item: Quartus
   - item: Arduino
   - item: ARM cortex-M MCU
   - item: Oscilloscopes
