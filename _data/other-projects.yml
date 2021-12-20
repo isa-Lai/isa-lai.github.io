@@ -8,7 +8,7 @@
     - thing: MVC
     - thing: PySerial
     - thing: NumPy
-- name: Pacemaker Device Controller Monitor
+- name: Image Processor Module
   url: https://github.com/isa-Lai/Image_Processor
   code: https://github.com/isa-Lai/Image_Processor
   description: FPAG module to decode information saved in SRAM in mic15 format.
