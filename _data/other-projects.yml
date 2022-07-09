@@ -8,6 +8,16 @@
     - thing: MVC
     - thing: PySerial
     - thing: NumPy
+- name: SDR
+  url: https://github.com/isa-Lai/SDR
+  code: https://github.com/isa-Lai/SDR
+  description: Real-TIme Software-Defined Radio (SDR) on Linux
+  used:
+    - thing: C++
+    - thing: Linux
+    - thing: Respberry Pi
+    - thing: Python
+    - thing: Unit Test
 - name: Image Processor Module
   url: https://github.com/isa-Lai/Image_Processor
   code: https://github.com/isa-Lai/Image_Processor
